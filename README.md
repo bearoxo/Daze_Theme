@@ -67,6 +67,8 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 80-100 = 5 stars
 
 ## Screenshots
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.2/1.png)
+
 ![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/1.png)
 
 ![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/2.png)
